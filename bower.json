@@ -1,0 +1,21 @@
+{
+  "name": "gigd123-f2e-4",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "gigd123 <gigdleo@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gigd123/gigd123-F2E-4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
