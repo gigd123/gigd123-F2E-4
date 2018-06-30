@@ -1,0 +1,12 @@
+body {
+  background-color: white; }
+
+h1 {
+  color: blue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-weight: 900; }
